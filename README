@@ -1,5 +1,5 @@
 WELCOME TO COURSE REGISTRATION SYSTEM by Gaurav Gaikwad
-SchoolDB App of IT368 in PHP
+Course Registration App in PHP and MySQL
 This application runs with bundle of Apache as HTTP Server, MySQL, MariaDB or MongoDB as the database management system and PHP, Perl, or Python, the scripting languages (respectively programming languages) used for dynamic web pages and web development.
 
 NOTE FOR INSTALLATION: 
@@ -39,9 +39,3 @@ Student Use cases:
 Tracebility is missing
 So use back button of browser to trace back
 If not please login again
-
-Regards
-Gaurav Gaikwad
-Graduate Student 
-Department of Information Technology
-Illinois State University
