@@ -1,0 +1,47 @@
+WELCOME TO COURSE REGISTRATION SYSTEM by Gaurav Gaikwad
+SchoolDB App of IT368 in PHP
+This application runs with bundle of Apache as HTTP Server, MySQL, MariaDB or MongoDB as the database management system and PHP, Perl, or Python, the scripting languages (respectively programming languages) used for dynamic web pages and web development.
+
+NOTE FOR INSTALLATION: 
+A>Please download and install WAMP, MAMP or XAMP server.
+B>Please rum installed server and place the whole SchoolDB folder into C:\wamp\www i.e. root folder.  
+C>PLEASE RUN database.php to create database schema. 
+D>Launch "localhost/SchoolDB/default.php" in any browser.
+
+Student Login (default.php) 
+is for STUDENT registration only.
+
+Admin Login (admin_page.php) 
+is for ADMINISTRATOR only.
+Admin ID: admin
+Password: admin
+
+Admin Use cases:
+1>Admin can see all students in a course
+2>Admin can see all courses registered by a student
+3>Only Admin can add courses
+4>Admin can shift student from a class to another class
+
+Student Use cases:
+1>Student Can Sign Up from default page
+2>Registered students can sign in (POST method)
+3>Signing in provides with Student Information (Session maintained)
+4>Here Students can Register for courses 
+	(Validations)
+	-Registration valid Upto 4 courses with more then 9 credit hours
+	-Class will consist of less then 15 students
+	-Student can register for a specific course only once
+5>Students can remove the registered course
+6>Students can exchange courses
+7>Studets can add student information
+8>Log out
+
+Tracebility is missing
+So use back button of browser to trace back
+If not please login again
+
+Regards
+Gaurav Gaikwad
+Graduate Student 
+Department of Information Technology
+Illinois State University
